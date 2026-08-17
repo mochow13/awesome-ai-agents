@@ -4560,6 +4560,28 @@ Productivity, Build-your-own, Business intelligence
 
 </details>
 
+## [Keen Code](https://mochow13.github.io/keen-code/)
+A context-aware terminal coding agent written in Go
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Open-source, lightweight terminal coding agent focused on everyday software engineering tasks.
+- Supports multiple AI providers, subagents, Agent Skills, and hashline edits.
+- Turn Memory keeps multi-turn conversations lean by retaining a configurable subset of tool-interaction signals across turns; users can control how tool outputs are retained.
+- MCP servers are integrated through generated Agent Skills instead of loading all MCP tool definitions into context upfront or relying on semantic tool search.
+
+### Links
+- [Website](https://mochow13.github.io/keen-code/)
+- [GitHub](https://github.com/mochow13/keen-code)
+- [Turn Memory](https://mochow13.github.io/keen-code/docs/turn-memory.html)
+- [Skill-driven MCP](https://mochow13.github.io/keen-code/docs/mcp-skills.html)
+
+</details>
+
 ## [Kusho](https://kusho.ai/)
 AI agent for API testing
 
